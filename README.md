@@ -10,6 +10,7 @@ This project demonstrates how to build a basic movie recommendation system using
 
 ## 📁 Folder Structure
 
+```
 MovieBuddy/
 │
 ├── data/
@@ -20,6 +21,8 @@ MovieBuddy/
 ├── unsupervised_learning.py ← Group users with similar taste
 ├── semi_supervised.py ← Predict ratings with limited labeled data
 └── README.md
+```
+
 ---
 
 ## 🔹 1. `supervised_learning.py` – Predict Movie Ratings
